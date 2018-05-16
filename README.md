@@ -7,7 +7,8 @@
 
 ### Overview 
 * The basic task for this project is building an e-commerce website. You should focus on functionality more than form/appearance. In other words, don't worry very much about styling and CSS. Instead, demonstrate that you can create something that has all of the *functionality* of an e-commerce website with a shopping cart. That means  
-  * products loaded from a database.
+  * routing, with a products page and a cart page.
+  * products stored in and loaded from a database.
   * full CRUD (create, read, update, delete) working from front to back.
   * one JOIN statement in your SQL.
 * To help you think about what the app needs to do, there are some requirements written from the perspective of a user below. 
@@ -16,11 +17,12 @@
 As a user ...  
 * I can visit the site and see products for sale.
 * I can add a product to my shopping cart.
-* I can view my shopping cart.
-  * I should be able to refresh the page and still see the contents of my cart.
+* I can navigate to the cart page and view my shopping cart.
+  * I should be able to refresh the page and still see the contents of my cart loaded from the database.
 * I can delete an item from my shopping cart.
 * I can edit the quantity of an item in my shopping cart.
 
 ### Notes
-* Full-featured authentication using Auth0 is **not** required and is strongly discouraged. 
+* There should be **no** authentication for this app, neither through Auth0, nor setting it up on sessions yourself. 
+* Because of the lack of authentication, assume that only one user will be using your app. 
 * You have very limited access to mentors for this project. You need to complete all of the major parts of the project on your own. Mentors can assist when you have uncommon errors, or errors unrelated to what you need to demonstrate on this assessment. 
