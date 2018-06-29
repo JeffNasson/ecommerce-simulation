@@ -21,6 +21,7 @@ As a user ...
   * I should be able to refresh the page and still see the contents of my cart loaded from the database.
 * I can delete an item from my shopping cart.
 * I can edit the quantity of an item in my shopping cart.
+* I can checkout, which should clear my cart. 
 
 ### Notes
 * There should be **no** authentication for this app, neither through Auth0, nor setting it up on sessions yourself. 
