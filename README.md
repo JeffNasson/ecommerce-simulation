@@ -9,7 +9,7 @@ This project is for any students missing
 When grading, be sure to require an explanation of these concepts, especially for students who recieved a lot of mentor help during personals. 
 
 ### Project Duration 
-The students will have three days to complete this project. Typically this project will be done Tue-Thur of the Angular week. The code reviews should be done Thursday afternoon or Friday morning. 
+The students will have three days to complete this project. Typically this project will be done Wed-Fri of the Dive-Deeper week. The code reviews should be done Friday afternoon. 
 
 ### Mentor Involvement
 * The students should receive very little help during this project. If they have a weird bug, feel free to jump in and help, but any typical debugging should be done by the student alone and any conceptual questions should not be answered until after the project has been passed off.
