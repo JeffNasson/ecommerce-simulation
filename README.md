@@ -26,4 +26,5 @@ As a user ...
 ### Notes
 * There should be **no** authentication for this app, neither through Auth0, nor setting it up on sessions yourself. 
 * Because of the lack of authentication, assume that only one user will be using your app. 
+* You should not need Redux for this app either
 * You have very limited access to mentors for this project. You need to complete all of the major parts of the project on your own. Mentors can assist when you have uncommon errors, or errors unrelated to what you need to demonstrate on this assessment. 
